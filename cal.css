@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cal{
+    background-color: black;
+    color: wheat;
+    width: 270px;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.btn{
+    height: auto;
+    width: 40px;
+}
+.btn-success{
+    height: auto;
+    width: 100px;
+}
+.history{
+    background-color:deepskyblue;
+    color: black;
+    width: 270px;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}  
+h3{
+    color: black;
+}

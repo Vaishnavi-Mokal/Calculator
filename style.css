@@ -1,0 +1,45 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/187161.jpg");
+  background-position: center;
+  background-size: cover;
+ 
+
+  font: normal 14px ;
+  
+}
+
+.container {
+  padding: 100px;
+}
+::placeholder {
+  
+  color: #ffffff !important;
+ 
+  font-size: 18px !important;
+}
+.form-login {
+  background-color: rgba(0, 0, 0, 0.55);
+  padding: 10px;
+  border-radius: 15px;
+  border-width: 5px;
+  color: white;
+  
+}
+.form-control {
+  background: transparent !important;
+  color: white !important;
+  font-size: 18px !important;
+  border-radius: 10px;
+}
+h1 {
+  color: white !important;
+}
+h4 {
+  border: 0 solid #fff;
+  border-bottom-width: 1px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+
+
